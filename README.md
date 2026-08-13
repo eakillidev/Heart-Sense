@@ -1,7 +1,5 @@
 # Heart Disease Prediction Using K-Nearest Neighbors
 
-# Emre Akilli
-
 ## Project Objective
 
 The model predicts one of two outcomes:
