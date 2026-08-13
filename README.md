@@ -1,6 +1,6 @@
 # Heart Disease Prediction Using K-Nearest Neighbors
 
-# CAI 4105 - Emre Akilli
+# Emre Akilli
 
 ## Project Objective
 
